@@ -5,4 +5,6 @@ You must write into great TextBox, then you must push in button 'Refrescar'. You
 
 I attach screenshots of the program MultiClip. If you want to export python code, I will recommend that you will use 'Auto-Py-To-Exe'.
 
-![Alt text](C:\1.png?raw=true "ScreenShot1")
+![Alt text](https://user-images.githubusercontent.com/36576250/118334727-6eeb0e00-b50e-11eb-960d-884fffc63520.PNG?raw=true "ScreenShot1")
+
+![Alt text](https://user-images.githubusercontent.com/36576250/118334729-714d6800-b50e-11eb-831a-21cb3e6ae7fe.PNG?raw=true "ScreenShot1")
